@@ -1,4 +1,2 @@
 # website-pribadi
-Nurani Syahidah
-2200462
-UTS PROMNET
+Nurani Syahidah_2200462_UTS PROMNET
